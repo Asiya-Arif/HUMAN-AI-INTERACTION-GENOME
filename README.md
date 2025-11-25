@@ -20,10 +20,10 @@ This project analyzes:
 
 ## 📊 Dashboard Preview
 
-![Genome Dashboard](images/Screenshot 2025-11-06 121711.png)
-images/Screenshot 2025-11-06 121742.png
-images/Screenshot 2025-11-06 121801.png
-images/Screenshot 2025-11-06 121816.png
+![Screenshot 1]("images/Screenshot 2025-11-06 121711.png")
+![Screenshot 2]("images/Screenshot 2025-11-06 121742.png")
+![Screenshot 3]("images/Screenshot 2025-11-06 121801.png")
+![Screenshot 4]("images/Screenshot 2025-11-06 121816.png")
 
 ---
 
