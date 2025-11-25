@@ -20,10 +20,10 @@ This project analyzes:
 
 ## 📊 Dashboard Preview
 
-![Screenshot 1]("images/Screenshot 2025-11-06 121711.png")
-![Screenshot 2]("images/Screenshot 2025-11-06 121742.png")
-![Screenshot 3]("images/Screenshot 2025-11-06 121801.png")
-![Screenshot 4]("images/Screenshot 2025-11-06 121816.png")
+![Screenshot 1](images/Screenshot%202025-11-06%20121711.png)
+![Screenshot 2](images/Screenshot%202025-11-06%20121742.png)
+![Screenshot 3](images/Screenshot%202025-11-06%20121801.png)
+![Screenshot 4](images/Screenshot%202025-11-06%20121816.png)
 
 ---
 
