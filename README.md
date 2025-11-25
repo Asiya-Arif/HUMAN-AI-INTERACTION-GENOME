@@ -3,6 +3,12 @@ A complete analytical deep-dive into how humans interact with AI systems — acr
 
 This project transforms raw interaction logs into a multi-layered analytical genome, revealing patterns in human cognitive and emotional behavior when interacting with AI.
 
+📌 Dataset Used
+
+This project is built using the WildChat-1Mv dataset by AllenAI, available on Hugging Face:
+
+👉 https://huggingface.co/datasets/allenai/WildChat-1Mv
+
 ---
 
 ## 📊 Project Overview
